@@ -1,3 +1,5 @@
+@import url("https://fonts.cdnfonts.com/css/papyrus");
+
 /* Basic Style */
 
 .body {
@@ -18,7 +20,10 @@
 }
 
 .header .info {
-  font-family: fantasy, cursive;
+  font-family: Papyrus, sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: 1.95px;
 }
 
 @media (max-width: 768px) {
